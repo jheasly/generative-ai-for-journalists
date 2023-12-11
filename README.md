@@ -1,0 +1,1 @@
+The Python version to be used is specified in the `.python-version` file.
