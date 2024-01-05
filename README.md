@@ -1,5 +1,5 @@
 ### Note
-The Python version to be used is specified in the `.python-version` file.
+The Python version to be used is specified in the `.python-version` file. It's a `pyenv` thing.
 
 ### Referenced LangChain links
 
