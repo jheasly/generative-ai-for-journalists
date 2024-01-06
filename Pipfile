@@ -7,8 +7,14 @@ name = "pypi"
 jupyterlab = "*"
 pip = "*"
 ipywidgets = "*"
+langchain = "*"
+pypdf = "*"
+sentence-transformers = "*"
+chromadb = "*"
+llama-cpp-python = "*"
+gradio = "==3.48.0"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.8"
