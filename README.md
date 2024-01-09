@@ -1,6 +1,8 @@
 ### Note
 The Python version to be used is specified in the `.python-version` file. It's a `pyenv` thing.
 
+There's a weekly course material zip file in each of the Week_2, Week_3, Week_4.
+
 ----
 
 ### Week 1
@@ -107,11 +109,7 @@ https://python.langchain.com/docs/modules/data_connection/vectorstores/
 
 ----
 
-### Week 4 video
-
-https://www.youtube.com/watch?v=u188e2LKdC8
-
-Hugging Face Discourse/Discord?
+There's also a Hugging Face Discourse/Discord?
 
 #### Knight Center YouTube channel
 
