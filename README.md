@@ -1,7 +1,7 @@
 ### Note
 The Python version to be used is specified in the `.python-version` file. It's a `pyenv` thing.
 
-There's a weekly course material zip file in each of the Week_2, Week_3, Week_4.
+There's a weekly course material zip file in each of the **Week_2**, **Week_3**, **Week_4** directories that you'll need.
 
 ----
 
