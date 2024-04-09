@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=rIrwBvVQVPg
 
 Discovering your Data - Part 2 | Module 2
 https://www.youtube.com/watch?v=vuI9VlBdyAM  
-(Retrieval Augmented Generation, actual embedding using LangChain)
+(Retrieval Augmented Generation, actual embedding using LangChain, store embeddings in Chroma)
 
 ![](https://python.langchain.com/assets/images/data_connection-95ff2033a8faa5f3ba41376c0f6dd32a.jpg)
 
