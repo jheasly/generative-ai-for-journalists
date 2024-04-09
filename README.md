@@ -22,10 +22,14 @@ https://www.youtube.com/watch?v=Qhr7iu7tQ_c
 #### YouTube videos
 
 Discovering your Data - Part 1 | Module 2  
-https://www.youtube.com/watch?v=rIrwBvVQVPg
+https://www.youtube.com/watch?v=rIrwBvVQVPg  
+(Intro to the concept of embedding)
 
-Discovering your Data - Part 2  
-https://www.youtube.com/watch?v=vuI9VlBdyAM
+Discovering your Data - Part 2 | Module 2
+https://www.youtube.com/watch?v=vuI9VlBdyAM  
+(Retrieval Augmented Generation, actual embedding using LangChain)
+
+![](https://python.langchain.com/assets/images/data_connection-95ff2033a8faa5f3ba41376c0f6dd32a.jpg)
 
 ----
 
