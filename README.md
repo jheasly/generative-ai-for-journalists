@@ -38,13 +38,17 @@ https://www.youtube.com/watch?v=vuI9VlBdyAM
 #### YouTube videos
 
 Working with Models - Part 1 | Module 3  
-https://www.youtube.com/watch?v=G6QwZFHvHD8
+https://www.youtube.com/watch?v=G6QwZFHvHD8  
+(feeding documents into Mistral LLM; "agent," "tool")
 
 Working with Models - Part 2 | Module 3  
-https://www.youtube.com/watch?v=F4Y1h2M4-04
+https://www.youtube.com/watch?v=F4Y1h2M4-04  
+(Mistral 7B)
 
 Working with Models - Part 3 | Module 3  
-https://www.youtube.com/watch?v=4o9rQRg4cnM
+https://www.youtube.com/watch?v=4o9rQRg4cnM  
+(inserting a `/directory` full of documents into a vector database; load with LangChain's `PyPDFDirectoryLoader`, then embed the CSVs & PDFs with LangChain embedding classes, then install and load vectors into Chroma, then run a few queries. And *now* at 6:17 start **Week 3** ...   
+Start by making an Agent, 8:15.)
 
 ----
 
