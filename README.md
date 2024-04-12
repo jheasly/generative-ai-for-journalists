@@ -70,13 +70,16 @@ https://python.langchain.com/docs/modules/agents/
 #### YouTube videos
 
 Making a Website - Part 1 | Module 4  
-https://www.youtube.com/watch?v=qnAD2P76YxE
+https://www.youtube.com/watch?v=qnAD2P76YxE [7:33]  
+(intro to Hugging Face library Gradio)
 
 Making a Website - Part 2 | Module 4  
-https://www.youtube.com/watch?v=cn7OmJQS1SI
+https://www.youtube.com/watch?v=cn7OmJQS1SI [4:46]  
+(futzing around with Hugging Face and Gradio websites)
 
-Making a Website - Part 3 | Module 4  
-https://www.youtube.com/watch?v=u188e2LKdC8
+Making a Website - Part 3 | Module 4 [8:31]  
+https://www.youtube.com/watch?v=u188e2LKdC8  
+(going through Week 4 Jupyter notebook)
 
 Interview with John Keefe | Module 4  
 https://www.youtube.com/watch?v=Q7GIEh47Rls
